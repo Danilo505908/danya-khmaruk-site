@@ -1,4 +1,4 @@
-import { SiDiscord, SiTelegram } from 'react-icons/si';
+import { SiTelegram } from 'react-icons/si';
 import ContactLink from '../components/contactForm/ContactLink';
 import ContactForm from '../components/contactForm/ContactForm';
 import AvailabilityStatus from '../components/availabilityStatus/AvailabilityStatus';
