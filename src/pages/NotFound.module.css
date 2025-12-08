@@ -1,0 +1,14 @@
+.hero {
+	width: 100%;
+	position: relative;
+	padding-inline: 40px;
+	margin-top: 126px;
+	margin-bottom: 2rem;
+	color: var(--text);
+}
+
+@media screen and (max-width: 700px) {
+	.hero {
+		padding-inline: 1.5rem;
+	}
+}

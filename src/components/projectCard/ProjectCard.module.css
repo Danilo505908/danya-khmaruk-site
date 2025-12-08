@@ -1,0 +1,64 @@
+.project {
+	display: flex;
+	flex-direction: column;
+	align-items: start;
+	padding: 1.25rem;
+	border: 1px solid var(--border);
+	border-radius: 0.75rem;
+	min-height: 10rem;
+	color: var(--text);
+	transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+	background: var(--header);
+	backdrop-filter: blur(10px);
+	box-shadow: 0 2px 8px var(--shadow);
+	cursor: pointer;
+}
+
+.project:hover {
+	border-color: var(--accent);
+	transform: translateY(-4px);
+	box-shadow: 0 8px 24px var(--shadow-lg);
+	background: var(--primary);
+}
+
+.project h1 {
+	font-size: 16px;
+	font-weight: 600;
+	margin-bottom: 6px;
+}
+
+.project p {
+	font-size: 14px;
+	font-weight: 400;
+	color: var(--secondary-text);
+}
+
+.language_data {
+	display: flex;
+	align-items: center;
+	justify-content: start;
+	gap: 0.5rem;
+	margin-top: auto;
+	font-size: 0.875rem;
+	line-height: 1.25rem;
+}
+
+.language {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 0.5rem;
+}
+
+.language_color {
+	width: 0.75rem;
+	height: 0.75rem;
+	border-radius: 50%;
+}
+
+.stats {
+	display: flex;
+	align-items: center;
+	justify-content: start;
+	gap: 0.5rem;
+}

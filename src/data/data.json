@@ -1,0 +1,144 @@
+{
+	"translations": {
+		"en": {
+			"header": {
+				"home": "Home",
+				"portfolio": "Portfolio",
+				"contact": "Contact"
+			},
+			"profile": "Hey, I'm Danya",
+			"profile_info": "I'm a junior front-end developer based in Kyiv, Ukraine, passionate about crafting modern and responsive web experiences. I love transforming creative ideas into functional, beautiful websites. Every project is an opportunity to learn, grow, and push the boundaries of what's possible in web development.",
+			"hobby": "About Me",
+			"hobby_info": "As a dedicated front-end developer, I'm constantly working to enhance my skills and take on challenging projects. I'm enthusiastic about exploring cutting-edge technologies and finding innovative solutions to complex problems. Collaboration is key for me—I excel in team settings where we can combine our strengths to build exceptional user experiences. I'm always eager to learn from every project and interaction, and I'm currently looking for opportunities to apply my expertise in a professional environment where I can make a real difference.",
+			"technologies": "Technologies",
+			"technologies_info": "I leverage a diverse toolkit of modern technologies and frameworks to build efficient, scalable web applications. Here's a comprehensive overview of the tools, languages, and frameworks I work with to deliver high-quality solutions.",
+			"projects": "Projects",
+			"projects_info": "I'm passionate about building and sharing projects on GitHub. Each repository represents a learning journey and an opportunity to contribute to the developer community while refining my craft.",
+			"chat": "Get in Touch",
+			"chat_info": "Interested in collaborating or have a question? I'd love to hear from you! Drop me a message below, or reach out through Telegram or email—I'm always open to new opportunities and conversations.",
+			"download_cv": "Download CV",
+			"time": [
+				"It's currently",
+				"for me, so I'm probably",
+				"awake",
+				"sleeping",
+				". I'll get back to you soon."
+			],
+			"portfolio": {
+				"title": "Portfolio",
+				"subtitle": "Projects made by me or in which I participated.",
+				"projects": {
+					"goit-markup": {
+						"name": "GoIT Markup HW-06",
+						"href": "https://danilo505908.github.io/goit-markup-hw-06/",
+						"tools": ["HTML", "CSS", "JavaScript"],
+						"description": "A responsive website project developed as part of GoIT coursework. Implemented semantic HTML structure, modern CSS styling, and interactive JavaScript features to create an engaging user experience."
+					},
+					"star-team": {
+						"name": "Star Team",
+						"href": "https://koselevn.github.io/star-team/",
+						"tools": ["HTML", "CSS", "JavaScript"],
+						"description": "Collaborative team project showcasing modern web development practices. Worked with a team to build a responsive website with clean code and user-friendly interface."
+					},
+					"simply-chocolate": {
+						"name": "SIMPLY CHOCOLATE",
+						"href": "https://danilo505908.github.io/SIMPLY-CHOCOLATE/",
+						"tools": ["HTML", "CSS", "JavaScript"],
+						"description": "A personal project - a modern landing page for a chocolate brand. Independently developed from scratch, featuring a responsive design with smooth animations, product showcases, and an engaging user interface. Implemented semantic HTML, modern CSS styling, and interactive JavaScript features to create an immersive experience for chocolate lovers."
+					},
+					"sunny-penguins": {
+						"name": "ArtistsHub",
+						"href": "https://sunny-penguins.vercel.app/",
+						"tools": ["HTML", "CSS", "JavaScript", "React", "Vercel"],
+						"description": "ArtistsHub - a collaborative team project where I served as team lead. A music discovery platform where users can explore, filter, and learn about their favorite artists. Led the team in building this project with modern web technologies to create an engaging user experience for music lovers."
+					}
+				}
+			},
+			"contact_me": {
+				"thanks": "Thanks for reaching out! I'll get back to you soon.",
+				"name": "NAME",
+				"name_placeholder": "Your name",
+				"email": "EMAIL",
+				"message": "MESSAGE",
+				"message_placehorder": "Hi Danya, what's up?",
+				"send": "Send",
+				"error": "Please fill out all fields!",
+				"error_email": "Hmm, that doesn't look like an email."
+			},
+			"spotify": {
+				"title": "Currently listening on Spotify :",
+				"not_listening": "Currently not listening to Spotify"
+			}
+		},
+		"ua": {
+			"header": {
+				"home": "Головна",
+				"portfolio": "Портфоліо",
+				"contact": "Контакти"
+			},
+			"profile": "Привіт, я Даня",
+			"profile_info": "Я junior front-end розробник з Києва, Україна, який захоплюється створенням сучасних та адаптивних веб-додатків. Мені подобається перетворювати творчі ідеї на функціональні та красиві веб-сайти. Кожен проект — це можливість навчатися, розвиватися та розширювати межі можливого у веб-розробці.",
+			"hobby": "Про мене",
+			"hobby_info": "Як відданий front-end розробник, я постійно працюю над покращенням своїх навичок та взяттям на себе складних проектів. Я захоплююся дослідженням передових технологій та пошуком інноваційних рішень для складних завдань. Співпраця для мене ключова—я досягаю успіху в командних умовах, де ми можемо поєднати наші сильні сторони для створення виняткового користувацького досвіду. Я завжди готовий вчитися з кожного проекту та взаємодії, і зараз шукаю можливості застосувати свої знання в професійному середовищі, де я можу зробити реальну різницю.",
+			"technologies": "Технології",
+			"technologies_info": "Я використовую широкий спектр сучасних технологій та фреймворків для створення ефективних та масштабованих веб-додатків. Ось комплексний огляд інструментів, мов та фреймворків, з якими я працюю для забезпечення високоякісних рішень.",
+			"projects": "Проекти",
+			"projects_info": "Я захоплююся створенням та поширенням проектів на GitHub. Кожен репозиторій представляє подорож навчання та можливість внести внесок у спільноту розробників, одночасно вдосконалюючи свої навички.",
+			"chat": "Зв'яжіться зі мною",
+			"chat_info": "Цікавитесь співпрацею або маєте питання? Буду радий почути від вас! Залиште повідомлення нижче або зв'яжіться через Telegram чи електронну пошту—я завжди відкритий до нових можливостей та розмов.",
+			"download_cv": "Завантажити резюме",
+			"time": [
+				"Зараз",
+				"за київським часом, тож я ймовірно,",
+				"не сплю",
+				"сплю",
+				". Відповім, як тільки зможу."
+			],
+			"portfolio": {
+				"title": "Портфоліо",
+				"subtitle": "Проекти зроблені мною або в яких я брав участь.",
+				"projects": {
+					"goit-markup": {
+						"name": "GoIT Markup HW-06",
+						"href": "https://danilo505908.github.io/goit-markup-hw-06/",
+						"tools": ["HTML", "CSS", "JavaScript"],
+						"description": "Адаптивний веб-сайт, розроблений в рамках навчального курсу GoIT. Реалізовано семантичну HTML структуру, сучасне CSS стилізування та інтерактивні JavaScript функції для створення захоплюючого користувацького досвіду."
+					},
+					"star-team": {
+						"name": "Star Team",
+						"href": "https://koselevn.github.io/star-team/",
+						"tools": ["HTML", "CSS", "JavaScript"],
+						"description": "Командний проект, що демонструє сучасні практики веб-розробки. Працював у команді над створенням адаптивного веб-сайту з чистим кодом та зручним інтерфейсом."
+					},
+					"simply-chocolate": {
+						"name": "SIMPLY CHOCOLATE",
+						"href": "https://danilo505908.github.io/SIMPLY-CHOCOLATE/",
+						"tools": ["HTML", "CSS", "JavaScript"],
+						"description": "Особистий проект - сучасний лендінг для шоколадної бренду. Розроблено самостійно з нуля, з адаптивним дизайном, плавними анімаціями, презентацією продуктів та захоплюючим інтерфейсом. Реалізовано семантичний HTML, сучасне CSS стилізування та інтерактивні JavaScript функції для створення захоплюючого досвіду для любителів шоколаду."
+					},
+					"sunny-penguins": {
+						"name": "ArtistsHub",
+						"href": "https://sunny-penguins.vercel.app/",
+						"tools": ["HTML", "CSS", "JavaScript", "React", "Vercel"],
+						"description": "ArtistsHub - командний проект, де я виконував роль team lead. Платформа для пошуку музики, де користувачі можуть досліджувати, фільтрувати та дізнаватися про своїх улюблених артистів. Керував командою під час створення цього проекту з використанням сучасних веб-технологій для забезпечення захоплюючого досвіду для любителів музики."
+					}
+				}
+			},
+			"contact_me": {
+				"thanks": "Дякую, що звернулися! Я скоро з вами зв'яжуся.",
+				"name": "ІМ'Я",
+				"name_placeholder": "Ваше ім'я",
+				"email": "ПОШТА",
+				"message": "ПОВІДОМЛЕНЯ",
+				"message_placehorder": "Привіт Дане, як справи?",
+				"send": "Відправити",
+				"error": "Будь ласка, заповніть всі поля!",
+				"error_email": "Хмм, це не схоже на електронну пошту."
+			},
+			"spotify": {
+				"title": "Зараз слухаю на Spotify :",
+				"not_listening": "Не слухаю зараз Spotify"
+			}
+		}
+	}
+}
