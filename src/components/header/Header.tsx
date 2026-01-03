@@ -101,8 +101,8 @@ export const Header = ({
 						{translations[language].header.home}
 					</Link>
 					<Link
-					to={'/projects'}
-					className={location.pathname === '/projects' ? classes.active : ''}
+						to={'/projects'}
+						className={location.pathname === '/projects' ? classes.active : ''}
 					>
 						{translations[language].header.portfolio}
 					</Link>
@@ -127,7 +127,7 @@ export const Header = ({
 
 					<LinkButton
 						href='mailto:danahmaruk91@gmail.com'
-						icon={<FiMail href='' className={classes.social_icon} />}
+						icon={<FiMail className={classes.social_icon} />}
 					/>
 				</div>
 
@@ -197,7 +197,7 @@ export const Header = ({
 
 								<LinkButton
 									href='mailto:danahmaruk91@gmail.com'
-									icon={<FiMail href='' className={classes.social_icon} />}
+									icon={<FiMail className={classes.social_icon} />}
 								/>
 							</div>
 						</motion.div>

@@ -109,8 +109,7 @@
 }
 
 .social_btn[href="https://github.com/Danilo505908"]:hover .social_icon,
-.social_btn[href="https://linkedin.com/in/danyakhmaruk"]:hover .social_icon
-{
+.social_btn[href="https://linkedin.com/in/danyakhmaruk"]:hover .social_icon {
 	fill: var(--accent);
 	transform: scale(1.1);
 }
@@ -121,8 +120,7 @@
 }
 
 .social_btn[href="https://github.com/Danilo505908"] .social_icon,
-.social_btn[href="https://linkedin.com/in/danyakhmaruk"] .social_icon
-{
+.social_btn[href="https://linkedin.com/in/danyakhmaruk"] .social_icon {
 	width: 20px;
 	height: 20px;
 	fill: #9ca3af;
@@ -163,11 +161,13 @@
 .mobile_menu_btn_icon {
 	height: 1.75rem;
 	width: 1.75rem;
+	cursor: pointer;
 }
 
 .backdrop_wrapper {
 	position: fixed;
 	top: 53px;
+	left: 0;
 	z-index: 500;
 	display: flex;
 	height: 100vh;
@@ -175,7 +175,7 @@
 	flex-direction: column;
 	align-items: center;
 	overflow: hidden;
-	background-color: rgb(0, 0, 0, 0.1);
+	background-color: rgba(0, 0, 0, 0.1);
 	backdrop-filter: blur(12px);
 }
 
@@ -183,13 +183,13 @@
 	position: fixed;
 	z-index: 700;
 	top: 53px;
+	left: 0;
 	display: flex;
 	height: auto;
 	width: 100%;
 	flex-direction: column;
 	align-items: center;
 	justify-content: flex-start;
-
 	background-color: var(--primary);
 }
 
@@ -231,8 +231,18 @@
 }
 
 .mobile_menu_content_social {
-	padding-block: 0.5rem;
+	padding-block: 1.5rem;
+	padding-inline: 0;
 	display: flex;
-	gap: 0.5rem;
+	gap: 2.5rem;
 	margin: 0;
+	width: 100%;
+	justify-content: center;
+	align-items: center;
+}
+
+.mobile_menu_content_social svg {
+	width: 24px !important;
+	height: 24px !important;
+	display: block;
 }
