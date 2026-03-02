@@ -21,8 +21,9 @@ import { SkillBadge } from '../components/skillBadge/SkillBadge';
 import ProjectCard from '../components/projectCard/ProjectCard';
 import { Translations } from '../interfaces';
 import { CursorIcon } from '../ui/CursorIcon';
+import { AntigravityIcon } from '../ui/AntigravityIcon';
 
-import img from '../assets/me.jpeg';
+import img from '../assets/me.webp';
 import classes from './Home.module.css';
 
 const githubToken = import.meta.env.VITE_GITHUB_TOKEN;
@@ -32,7 +33,7 @@ async function getStaticProps() {
 	if (githubToken) {
 		headers.Authorization = `token ${githubToken}`;
 	}
-	
+
 	try {
 		const reposResponse = await fetch(
 			`https://api.github.com/users/Danilo505908/repos?type=owner&per_page=100`,
@@ -70,6 +71,7 @@ async function getStaticProps() {
 			'Green-palette',
 			'SIMPLY-CHOCOLATE',
 			'03-react-movies',
+			'KORCH',
 		];
 
 		let topRepos = repos.filter((repo: { name: string }) =>
@@ -151,6 +153,7 @@ export const Home = ({ translations, language }: Props) => {
 					<SkillBadge icon={SiNextdotjs} name='Next.js' />
 					<SkillBadge icon={VscVscode} name='VSCode' />
 					<SkillBadge icon={CursorIcon} name='Cursor' />
+					<SkillBadge icon={AntigravityIcon} name='Antigravity' />
 					<SkillBadge icon={FiFigma} name='Figma' />
 					<SkillBadge icon={SiVercel} name='Vercel' />
 					<SkillBadge icon={SiNpm} name='Npm' />

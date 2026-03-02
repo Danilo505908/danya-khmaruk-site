@@ -31,26 +31,54 @@
 					"goit-markup": {
 						"name": "GoIT Markup HW-06",
 						"href": "https://danilo505908.github.io/goit-markup-hw-06/",
-						"tools": ["HTML", "CSS", "JavaScript"],
+						"tools": [
+							"HTML",
+							"CSS",
+							"JavaScript"
+						],
 						"description": "A responsive website project developed as part of GoIT coursework. Implemented semantic HTML structure, modern CSS styling, and interactive JavaScript features to create an engaging user experience."
 					},
 					"star-team": {
 						"name": "Star Team",
 						"href": "https://koselevn.github.io/star-team/",
-						"tools": ["HTML", "CSS", "JavaScript"],
+						"tools": [
+							"HTML",
+							"CSS",
+							"JavaScript"
+						],
 						"description": "Collaborative team project showcasing modern web development practices. Worked with a team to build a responsive website with clean code and user-friendly interface."
 					},
 					"simply-chocolate": {
 						"name": "SIMPLY CHOCOLATE",
 						"href": "https://danilo505908.github.io/SIMPLY-CHOCOLATE/",
-						"tools": ["HTML", "CSS", "JavaScript"],
+						"tools": [
+							"HTML",
+							"CSS",
+							"JavaScript"
+						],
 						"description": "A personal project - a modern landing page for a chocolate brand. Independently developed from scratch, featuring a responsive design with smooth animations, product showcases, and an engaging user interface. Implemented semantic HTML, modern CSS styling, and interactive JavaScript features to create an immersive experience for chocolate lovers."
 					},
 					"sunny-penguins": {
 						"name": "ArtistsHub",
 						"href": "https://sunny-penguins.vercel.app/",
-						"tools": ["HTML", "CSS", "JavaScript", "React", "Vercel"],
+						"tools": [
+							"HTML",
+							"CSS",
+							"JavaScript",
+							"React",
+							"Vercel"
+						],
 						"description": "ArtistsHub - a collaborative team project where I served as team lead. A music discovery platform where users can explore, filter, and learn about their favorite artists. Led the team in building this project with modern web technologies to create an engaging user experience for music lovers."
+					},
+					"korch": {
+						"name": "KORCH",
+						"href": "https://danilo505908.github.io/KORCH/",
+						"tools": [
+							"HTML",
+							"CSS",
+							"JavaScript"
+						],
+						"description": "A solo project. A modern, responsive website for automotive services, built with semantic HTML, advanced CSS, and interactive JavaScript features to create a smooth user experience."
 					}
 				}
 			},
@@ -101,26 +129,54 @@
 					"goit-markup": {
 						"name": "GoIT Markup HW-06",
 						"href": "https://danilo505908.github.io/goit-markup-hw-06/",
-						"tools": ["HTML", "CSS", "JavaScript"],
+						"tools": [
+							"HTML",
+							"CSS",
+							"JavaScript"
+						],
 						"description": "Адаптивний веб-сайт, розроблений в рамках навчального курсу GoIT. Реалізовано семантичну HTML структуру, сучасне CSS стилізування та інтерактивні JavaScript функції для створення захоплюючого користувацького досвіду."
 					},
 					"star-team": {
 						"name": "Star Team",
 						"href": "https://koselevn.github.io/star-team/",
-						"tools": ["HTML", "CSS", "JavaScript"],
+						"tools": [
+							"HTML",
+							"CSS",
+							"JavaScript"
+						],
 						"description": "Командний проект, що демонструє сучасні практики веб-розробки. Працював у команді над створенням адаптивного веб-сайту з чистим кодом та зручним інтерфейсом."
 					},
 					"simply-chocolate": {
 						"name": "SIMPLY CHOCOLATE",
 						"href": "https://danilo505908.github.io/SIMPLY-CHOCOLATE/",
-						"tools": ["HTML", "CSS", "JavaScript"],
+						"tools": [
+							"HTML",
+							"CSS",
+							"JavaScript"
+						],
 						"description": "Особистий проект - сучасний лендінг для шоколадної бренду. Розроблено самостійно з нуля, з адаптивним дизайном, плавними анімаціями, презентацією продуктів та захоплюючим інтерфейсом. Реалізовано семантичний HTML, сучасне CSS стилізування та інтерактивні JavaScript функції для створення захоплюючого досвіду для любителів шоколаду."
 					},
 					"sunny-penguins": {
 						"name": "ArtistsHub",
 						"href": "https://sunny-penguins.vercel.app/",
-						"tools": ["HTML", "CSS", "JavaScript", "React", "Vercel"],
+						"tools": [
+							"HTML",
+							"CSS",
+							"JavaScript",
+							"React",
+							"Vercel"
+						],
 						"description": "ArtistsHub - командний проект, де я виконував роль team lead. Платформа для пошуку музики, де користувачі можуть досліджувати, фільтрувати та дізнаватися про своїх улюблених артистів. Керував командою під час створення цього проекту з використанням сучасних веб-технологій для забезпечення захоплюючого досвіду для любителів музики."
+					},
+					"korch": {
+						"name": "KORCH",
+						"href": "https://danilo505908.github.io/KORCH/",
+						"tools": [
+							"HTML",
+							"CSS",
+							"JavaScript"
+						],
+						"description": "Мій сольний проект KORCH. Сучасний, адаптивний веб-сайт для автомобільної тематики, створений з використанням семантичного HTML, CSS та інтерактивних JavaScript функцій для плавного користувацького досвіду."
 					}
 				}
 			},

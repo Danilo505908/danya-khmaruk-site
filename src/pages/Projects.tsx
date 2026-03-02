@@ -1,10 +1,11 @@
 import { Translations } from '../interfaces';
 import classes from './Projects.module.css';
 
-import goitMarkup from '../assets/goit-markup-hw-06.png';
-import starTeam from '../assets/star-team.png';
-import artistshubScreenshot from '../assets/artistshub-screenshot.png';
-import simplyChocolate from '../assets/simply-chocolate.jpeg';
+import goitMarkup from '../assets/goit-markup-hw-06.webp';
+import starTeam from '../assets/star-team.webp';
+import artistshubScreenshot from '../assets/artistshub-screenshot.webp';
+import simplyChocolate from '../assets/simply-chocolate.webp';
+import korchScreenshot from '../assets/korch.webp';
 import { CiDesktop, CiMobile1 } from 'react-icons/ci';
 import { useState } from 'react';
 import { FiExternalLink } from 'react-icons/fi';
@@ -181,6 +182,10 @@ export const Projects = ({ translations, language }: Props) => {
 				<ProjectItem
 					project={translations[language].portfolio.projects['sunny-penguins']}
 					desktop={artistshubScreenshot}
+				/>
+				<ProjectItem
+					project={translations[language].portfolio.projects['korch']}
+					desktop={korchScreenshot}
 				/>
 			</div>
 		</section>

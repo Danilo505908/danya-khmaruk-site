@@ -13,6 +13,7 @@
 		transform: translateY(-50px);
 		opacity: 0;
 	}
+
 	to {
 		transform: translateY(0);
 		opacity: 1;
@@ -42,6 +43,7 @@
 	object-fit: cover;
 	box-shadow: 0 4px 12px var(--shadow);
 	transition: all 0.3s ease;
+	flex-shrink: 0;
 }
 
 .profile_image:hover {
