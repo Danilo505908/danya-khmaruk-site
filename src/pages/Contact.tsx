@@ -41,7 +41,7 @@ export const Contact = ({ translations, language }: Props) => {
 					/>
 
 					<a
-						href='/Danya_Hmaruk_Frontend_Developer.pdf'
+						href='/Danya Hmaruk Full-Stack Developer.pdf'
 						download
 						className={contactLinkClasses.contact_link}
 					>
