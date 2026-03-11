@@ -7,9 +7,9 @@
 				"contact": "Contact"
 			},
 			"profile": "Hey, I'm Danya",
-			"profile_info": "I'm a junior front-end developer based in Kyiv, Ukraine, passionate about crafting modern and responsive web experiences. I love transforming creative ideas into functional, beautiful websites. Every project is an opportunity to learn, grow, and push the boundaries of what's possible in web development.",
+			"profile_info": "I'm a junior full-stack developer based in Kyiv, Ukraine, passionate about crafting modern and responsive web experiences. I love transforming creative ideas into functional, beautiful websites. Every project is an opportunity to learn, grow, and push the boundaries of what's possible in web development.",
 			"hobby": "About Me",
-			"hobby_info": "As a dedicated front-end developer, I'm constantly working to enhance my skills and take on challenging projects. I'm enthusiastic about exploring cutting-edge technologies and finding innovative solutions to complex problems. Collaboration is key for me—I excel in team settings where we can combine our strengths to build exceptional user experiences. I'm always eager to learn from every project and interaction, and I'm currently looking for opportunities to apply my expertise in a professional environment where I can make a real difference.",
+			"hobby_info": "As a dedicated full-stack developer, I'm constantly working to enhance my skills and take on challenging projects. I'm enthusiastic about exploring cutting-edge technologies and finding innovative solutions to complex problems. Collaboration is key for me—I excel in team settings where we can combine our strengths to build exceptional user experiences. I'm always eager to learn from every project and interaction, and I'm currently looking for opportunities to apply my expertise in a professional environment where I can make a real difference.",
 			"technologies": "Technologies",
 			"technologies_info": "I leverage a diverse toolkit of modern technologies and frameworks to build efficient, scalable web applications. Here's a comprehensive overview of the tools, languages, and frameworks I work with to deliver high-quality solutions.",
 			"projects": "Projects",
@@ -79,6 +79,17 @@
 							"JavaScript"
 						],
 						"description": "A solo project. A modern, responsive website for automotive services, built with semantic HTML, advanced CSS, and interactive JavaScript features to create a smooth user experience."
+					},
+					"stork-helpers": {
+						"name": "Leleka",
+						"href": "https://stork-helpers-next-ten.vercel.app/",
+						"tools": [
+							"React",
+							"Next.js",
+							"Node.js",
+							"MongoDB"
+						],
+						"description": "A collaborative project where I served as a full-stack developer. Leleka is a comprehensive platform designed to help users track and manage their pregnancy journey."
 					}
 				}
 			},
@@ -105,9 +116,9 @@
 				"contact": "Контакти"
 			},
 			"profile": "Привіт, я Даня",
-			"profile_info": "Я junior front-end розробник з Києва, Україна, який захоплюється створенням сучасних та адаптивних веб-додатків. Мені подобається перетворювати творчі ідеї на функціональні та красиві веб-сайти. Кожен проект — це можливість навчатися, розвиватися та розширювати межі можливого у веб-розробці.",
+			"profile_info": "Я junior full-stack розробник з Києва, Україна, який захоплюється створенням сучасних та адаптивних веб-додатків. Мені подобається перетворювати творчі ідеї на функціональні та красиві веб-сайти. Кожен проект — це можливість навчатися, розвиватися та розширювати межі можливого у веб-розробці.",
 			"hobby": "Про мене",
-			"hobby_info": "Як відданий front-end розробник, я постійно працюю над покращенням своїх навичок та взяттям на себе складних проектів. Я захоплююся дослідженням передових технологій та пошуком інноваційних рішень для складних завдань. Співпраця для мене ключова—я досягаю успіху в командних умовах, де ми можемо поєднати наші сильні сторони для створення виняткового користувацького досвіду. Я завжди готовий вчитися з кожного проекту та взаємодії, і зараз шукаю можливості застосувати свої знання в професійному середовищі, де я можу зробити реальну різницю.",
+			"hobby_info": "Як відданий full-stack розробник, я постійно працюю над покращенням своїх навичок та взяттям на себе складних проектів. Я захоплююся дослідженням передових технологій та пошуком інноваційних рішень для складних завдань. Співпраця для мене ключова—я досягаю успіху в командних умовах, де ми можемо поєднати наші сильні сторони для створення виняткового користувацького досвіду. Я завжди готовий вчитися з кожного проекту та взаємодії, і зараз шукаю можливості застосувати свої знання в професійному середовищі, де я можу зробити реальну різницю.",
 			"technologies": "Технології",
 			"technologies_info": "Я використовую широкий спектр сучасних технологій та фреймворків для створення ефективних та масштабованих веб-додатків. Ось комплексний огляд інструментів, мов та фреймворків, з якими я працюю для забезпечення високоякісних рішень.",
 			"projects": "Проекти",
@@ -177,6 +188,17 @@
 							"JavaScript"
 						],
 						"description": "Мій сольний проект KORCH. Сучасний, адаптивний веб-сайт для автомобільної тематики, створений з використанням семантичного HTML, CSS та інтерактивних JavaScript функцій для плавного користувацького досвіду."
+					},
+					"stork-helpers": {
+						"name": "Leleka",
+						"href": "https://stork-helpers-next-ten.vercel.app/",
+						"tools": [
+							"React",
+							"Next.js",
+							"TypeScript",
+							"Tailwind CSS"
+						],
+						"description": "Командний проект, у якому я виконував роль full-stack розробника. Платформа створена для того, щоб допомагати користувачам відстежувати та керувати процесом вагітності."
 					}
 				}
 			},

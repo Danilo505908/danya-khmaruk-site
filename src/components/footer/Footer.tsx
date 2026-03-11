@@ -8,7 +8,7 @@ const Footer = () => {
 			<div className={classes.content}>
 				<div className={classes.text}>
 					<h1>Danya Khmaruk</h1>
-					<h2>Frontend Developer • {date.getFullYear()}</h2>
+					<h2>Full-Stack Developer • {date.getFullYear()}</h2>
 				</div>
 				<div className={classes.links}>
 					<a

@@ -6,6 +6,7 @@ import starTeam from '../assets/star-team.webp';
 import artistshubScreenshot from '../assets/artistshub-screenshot.webp';
 import simplyChocolate from '../assets/simply-chocolate.webp';
 import korchScreenshot from '../assets/korch.webp';
+import lelekaScreenshot from '../assets/leleka.webp';
 import { CiDesktop, CiMobile1 } from 'react-icons/ci';
 import { useState } from 'react';
 import { FiExternalLink } from 'react-icons/fi';
@@ -186,6 +187,10 @@ export const Projects = ({ translations, language }: Props) => {
 				<ProjectItem
 					project={translations[language].portfolio.projects['korch']}
 					desktop={korchScreenshot}
+				/>
+				<ProjectItem
+					project={translations[language].portfolio.projects['stork-helpers']}
+					desktop={lelekaScreenshot}
 				/>
 			</div>
 		</section>
