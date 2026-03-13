@@ -42,7 +42,8 @@ export const Contact = ({ translations, language }: Props) => {
 
 					<a
 						href='/Danya_Hmaruk_Full_Stack_Developer.pdf'
-						download
+						target='_blank'
+						rel='noopener noreferrer'
 						className={contactLinkClasses.contact_link}
 					>
 						<FiDownload className={classes.link_icon} />
