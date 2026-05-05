@@ -1,8 +1,8 @@
 import { useEffect, useState } from 'react';
 import { FiFigma } from 'react-icons/fi';
-import { TbCloudCode } from 'react-icons/tb';
 import { VscVscode } from 'react-icons/vsc';
 import {
+	SiClaude,
 	SiCss3,
 	SiGit,
 	SiHtml5,
@@ -159,7 +159,7 @@ export const Home = ({ translations, language }: Props) => {
 					<SkillBadge icon={CursorIcon} name='Cursor' />
 					<SkillBadge icon={AntigravityIcon} name='Antigravity' />
 					<SkillBadge icon={SiOpenai} name='Codex' />
-					<SkillBadge icon={TbCloudCode} name='Cloud Code' />
+					<SkillBadge icon={SiClaude} name='Claude Code' />
 					<SkillBadge icon={FiFigma} name='Figma' />
 					<SkillBadge icon={SiVercel} name='Vercel' />
 					<SkillBadge icon={SiNpm} name='Npm' />
