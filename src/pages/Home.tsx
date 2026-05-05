@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
 import { FiFigma } from 'react-icons/fi';
+import { TbCloudCode } from 'react-icons/tb';
 import { VscVscode } from 'react-icons/vsc';
 import {
 	SiCss3,
@@ -10,11 +11,14 @@ import {
 	SiNextdotjs,
 	SiNodedotjs,
 	SiNpm,
+	SiOpenai,
+	SiPhp,
 	SiReact,
 	SiSass,
 	SiTailwindcss,
 	SiTypescript,
 	SiVercel,
+	SiWordpress,
 } from 'react-icons/si';
 
 import { SkillBadge } from '../components/skillBadge/SkillBadge';
@@ -74,7 +78,7 @@ async function getStaticProps() {
 			'KORCH',
 		];
 
-		let topRepos = repos.filter((repo: { name: string }) =>
+		const topRepos = repos.filter((repo: { name: string }) =>
 			selectedRepoNames.includes(repo.name)
 		);
 
@@ -154,11 +158,15 @@ export const Home = ({ translations, language }: Props) => {
 					<SkillBadge icon={VscVscode} name='VSCode' />
 					<SkillBadge icon={CursorIcon} name='Cursor' />
 					<SkillBadge icon={AntigravityIcon} name='Antigravity' />
+					<SkillBadge icon={SiOpenai} name='Codex' />
+					<SkillBadge icon={TbCloudCode} name='Cloud Code' />
 					<SkillBadge icon={FiFigma} name='Figma' />
 					<SkillBadge icon={SiVercel} name='Vercel' />
 					<SkillBadge icon={SiNpm} name='Npm' />
 					<SkillBadge icon={SiGit} name='Git' />
 					<SkillBadge icon={SiMongodb} name='MongoDB' />
+					<SkillBadge icon={SiPhp} name='PHP' />
+					<SkillBadge icon={SiWordpress} name='WordPress' />
 				</div>
 				<div className={classes.profile}>
 					<h1>{translations[language].projects} 🛠️</h1>
